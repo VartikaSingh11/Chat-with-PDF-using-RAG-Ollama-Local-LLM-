@@ -2,7 +2,7 @@
 This project demonstrates a complete end-to-end RAG pipeline using local LLMs without external APIs.
 
 #Project Overview
-This project implements a Retrieval-Augmented Generation (RAG) pipeline that allows users to ask questions from a PDF document using a local LLM (Llama2 via Ollama).
+This project implements a Retrieval-Augmented Generation (RAG) pipeline that allows users to ask questions from a PDF document using a local LLM (phi3 via Ollama).
 
 #The system ensures:
 Answers are based only on the document
