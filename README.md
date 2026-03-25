@@ -47,11 +47,14 @@ Download from: https://ollama.com
 Run:
 
 ollama run llama2
+
 2. Pull Embedding Model
-ollama pull nomic-embed-text
-3. Install Dependencies
+   
+3. ollama pull nomic-embed-text
+4. Install Dependencies
 pip install -r requirements.txt
-4. Run Notebook
+
+6. Run Notebook
 jupyter notebook
 
 Open:
